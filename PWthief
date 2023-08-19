@@ -42,7 +42,7 @@ DELAY 2000
 ALT y
 ENTER
 DELAY 1000
-STRING Set-WinUserLanguageList en-US -Force
+STRING Set-WinUserLanguageList en-US, en-UK -Force
 ENTER
 DELAY 1000
 ALT y
